@@ -58,6 +58,6 @@ By night when I'm not codeurge, I'm a Producer/DJ known as [UrgeTo](https://urge
 
 ### Github Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=codeurge&count_private=true&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeurge&hide=php&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=codeurge&count_private=true&show_icons=true&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeurge&hide=php&theme=radical" />
 </div>

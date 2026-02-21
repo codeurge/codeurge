@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/codeurge?label=Follow&style=social)](https://github.com/codeurge)
 
 
-I'm a passionate, self-taught engineer with over 18 years of experience building things for the web. Currently I work as a Senior Software Engineer at [Inception Health](https://inceptionhealth.com). I contribute to open source issues often when I find similar issues, have a workaround, or a solution by PR. I work primarily with JavaScript / TypeScript, and Ruby (not as much lately).
+I'm a passionate, self-taught engineer with over 21 years of experience building things for the web. I'm the Founder of [Profitabul](https://profitabul.com). I contribute to open source issues often when I find similar issues, have a workaround, or a solution by PR. I work primarily with JavaScript / TypeScript, and Ruby (not as much lately).
 
 I (kind of) maintain [circle-cli](https://github.com/circle-cli/circle-cli). If you're interested in picking this project up, send me an [email](mailto:derek@codeurge.com). I haven't maintained this rubygem much due to lack of using Ruby and CircleCI in my current workflow.
 
